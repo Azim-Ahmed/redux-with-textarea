@@ -1,0 +1,4 @@
+export const messageRequest = {
+  ADD_NEW_MESSAGE: "ADD_NEW_MESSAGE",
+  REMOVE_NEW_MESSAGE: "REMOVE_NEW_MESSAGE",
+};
